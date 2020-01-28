@@ -10,7 +10,7 @@ To fully understand the future of Bike Sharing in Des Moines, we devided our ana
 
 ## The Prospects of Bike Sharing in Des Moines, IA
 Greater Des Moines is gifted with beautiful nature that is appealing to residents and tourists alike.
-
+[]()
 The [Des Moines Tourism Website](https://www.catchdesmoines.com/things-to-do/outdoor/) offers abundant ideas for outdoor adventures in the Metro via:
 
 * Hundreds of public parks from skate parks, dog parks, dics golf to parks with breweries and restaurants
@@ -37,9 +37,9 @@ The two map charts on City Bike database illustrate the top locations for riders
 ## SWOT Analysis
 We conduct a SWOT analysis as framework for identifying the internal and external factors that can affect the viability of Bike Sharing in Des Moines 
 ### Strengths
-- Developed systems of trail and urban bike lanes
+- Developed system of trails and urban bike lanes
 - Busy downtown Des Moines: ideal for recreational and communal biking
-- Lots of biking tour around the city and bike communities (https://www.bikeiowa.com/)
+- Lots of biking tour around the city and bike communities in Des Moines from [Bike Iowa webpage](https://www.bikeiowa.com/)
 ### Weaknesses
 - Greater Des Moines is not as condensed and populated as NYC
 ### Oppurtunities
@@ -47,14 +47,11 @@ We conduct a SWOT analysis as framework for identifying the internal and externa
 - Increased demand for green transportation
 - Increased awareness of cycling for wealthness
 ### Threats
-- Main competitor: BCycle with 20 stations and 120 bikes
-(https://desmoines.bcycle.com/)
+- Main competitor: [BCycle](https://desmoines.bcycle.com/) with 20 stations and 120 bikes
 ## Strategic Plan
 ### Pilot Locations within Des Moines City
-The busiest locations to pick up/drop a bike in NYC are in line with 11 Mc Donald store locations.
-13 Mc Donald's store locations in Greater Des Moines
-7 suggested pilot bike sharing locations thoughout city of Des Moines
-(from the NY and Des Moines Mc Donald dataset)
+Analysis on [NYC Mc Donald dataset](https://github.com/Thinguyen23/Thi_Bikesharing/blob/master/ny_mcdonalds.csv) shows that the busiest locations to pick up/drop a bike in NYC are in line with 11 Mc Donald store locations in NYC. Mc Donald stores are calculated to locate in the busiest spot of a city. The same formula works for Des Moines. There are [13 Mc Donalds](https://github.com/Thinguyen23/Thi_Bikesharing/blob/master/ia_mcdonalds.csv) in Greater Des Moines representing the most packed tourist spots in Des Moines. We suggest starting the Bike Sharing venture with 7 pilot locations thoughout city of Des Moines as shown in the map.
+
 ### Timing and Pricing
 
 As shown in the graph on [Champion Traveler webpage](https://championtraveler.com/dates/best-time-to-visit-des-moines-ia-us/), the most popular time to visit Des Moines is from April to July, peaks in June. We suggest having the pilot program off and running by the beginning of April so that we could be prepared for the busy tourist season.
@@ -66,5 +63,4 @@ These are the different business packages that we suggest and the according rate
 - Annual pass - $150 for a whole year of riding
 
 ## Conclusion
-Des Moines nature and people has so much to offer. The Bike sharing program promise to take advantages of the amazing Greater Des Moines and encourage 
-people on outdoor adventures
+Des Moines City has so much to offer to the success of the Bike sharing program. This program promises to take advantages of the rich and amazing nature and culture of Greater Des Moines and encourage people to get out and seek adventures.
